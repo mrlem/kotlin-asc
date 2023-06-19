@@ -8,7 +8,7 @@ Import the lib:
 
 ```kotlin
 dependencies {
-    implementation("org.mrlem.kasc:kask:1.0")
+    implementation("org.mrlem.kasc:kasc:1.0")
 }
 ```
 
